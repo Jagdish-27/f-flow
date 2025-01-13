@@ -18,6 +18,12 @@
     "@angular/platform-browser": "~13.2.0",
     "@angular/platform-browser-dynamic": "~13.2.0",
     "@angular/router": "~13.2.0",
+    "@foblex/flow": "^12.7.1",
+    "@foblex/2d": "^1.1.0",
+    "@foblex/drag-toolkit": "^1.1.0",
+    "@foblex/mediator": "^1.1.0",
+    "@foblex/platform": "^1.0.4",
+    "@foblex/utils": "^1.1.0",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
